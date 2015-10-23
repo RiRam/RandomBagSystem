@@ -2,7 +2,9 @@
 
 A Java solution for the Random Bag System.
 
-From the reddit post: "Description
+From the reddit post: 
+
+"Description
 
 Contrary to popular belief, the tetromino pieces you are given in a game of Tetris are not randomly selected. Instead, all seven pieces are placed into a "bag." A piece is randomly removed from the bag and presented to the player until the bag is empty. When the bag is empty, it is refilled and the process is repeated for any additional pieces that are needed.
 
@@ -43,5 +45,7 @@ Bonus
 
 Write a function that takes your output as input and verifies that it is a valid sequence of pieces.
 "
+
+https://redd.it/3ofsyb
 
 In this solution, I have implemented both the primary challenge and the bonus challenge, and both challenges have test cases in the main method.
